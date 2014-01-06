@@ -11,6 +11,7 @@ var ArrayBufferByteStreamReader = breeze.fressian.ArrayBufferByteStreamReader;
 var IByteStreamReader = breeze.fressian.IByteStreamReader;
 
 
+
 /**
  * ByteReader interface into an DataView (ArrayBufferView)
  *
