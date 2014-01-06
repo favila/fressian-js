@@ -21,7 +21,7 @@ IByteStreamWriter = function() {};
  * Write a single number (range 0 to 255) as a Uint8.
  * @param {number} IByteStreamWriter
  */
-i.prototype.writeRawByte;
+IByteStreamWriter.prototype.writeRawByte;
 
 
 /**
